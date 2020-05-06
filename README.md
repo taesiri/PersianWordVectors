@@ -9,6 +9,8 @@ A set of pre-trained word embeddings for Persian Language.
 
 ## Example
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taesiri/PersianWordVectors/blob/master/FastText-Sample.ipynb)
+
 ```python
 import fasttext.util
 # loading the Model
