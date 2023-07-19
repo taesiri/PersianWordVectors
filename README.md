@@ -1,14 +1,14 @@
 # Persian Word Vectors
 
-A set of pre-trained word embeddings for Persian Language.
+A set of pre-trained word embeddings for the Persian Language.
 
 | Corpus              | Model               | URL                                                                |
 |---------------------|---------------------|--------------------------------------------------------------------|
-| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | FastText - SkipGram | [GDrive](https://drive.google.com/open?id=1wPnMG9_GNUVdSgbznQziQc5nMWI3QKNz) |
-| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | FastText - CBOW     | [GDrive](https://drive.google.com/open?id=1cQP10CGV6kAwmRuESJ5RTsgHq5TveXwV) |
-| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | GloVe     | [GDrive](https://drive.google.com/open?id=1yFCCuA-JrNIrRZWe4ohcJNNWiK5x0Ax9) |
+| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | FastText - SkipGram | [Hugging Face](https://huggingface.co/taesiri/PersianWordVecs/tree/main) |
+| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | FastText - CBOW     | [Hugging Face](https://huggingface.co/taesiri/PersianWordVecs/tree/main) |
+| [OSCAR](https://traces1.inria.fr/oscar/) - Persian Dedup | GloVe     | [Hugging Face](https://huggingface.co/taesiri/PersianWordVecs/tree/main) |
 
-
+### Update: All weights are moved to [Hugging Face](https://huggingface.co/taesiri/PersianWordVecs/tree/main)
 
 
 ## Example
